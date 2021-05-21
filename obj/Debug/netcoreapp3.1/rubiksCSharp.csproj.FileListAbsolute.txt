@@ -1,0 +1,13 @@
+C:\Users\Owner\Documents\rubiksCSharp\bin\Debug\netcoreapp3.1\rubiksCSharp.exe
+C:\Users\Owner\Documents\rubiksCSharp\bin\Debug\netcoreapp3.1\rubiksCSharp.deps.json
+C:\Users\Owner\Documents\rubiksCSharp\bin\Debug\netcoreapp3.1\rubiksCSharp.runtimeconfig.json
+C:\Users\Owner\Documents\rubiksCSharp\bin\Debug\netcoreapp3.1\rubiksCSharp.runtimeconfig.dev.json
+C:\Users\Owner\Documents\rubiksCSharp\bin\Debug\netcoreapp3.1\rubiksCSharp.dll
+C:\Users\Owner\Documents\rubiksCSharp\bin\Debug\netcoreapp3.1\rubiksCSharp.pdb
+C:\Users\Owner\Documents\rubiksCSharp\obj\Debug\netcoreapp3.1\rubiksCSharp.csprojAssemblyReference.cache
+C:\Users\Owner\Documents\rubiksCSharp\obj\Debug\netcoreapp3.1\rubiksCSharp.AssemblyInfoInputs.cache
+C:\Users\Owner\Documents\rubiksCSharp\obj\Debug\netcoreapp3.1\rubiksCSharp.AssemblyInfo.cs
+C:\Users\Owner\Documents\rubiksCSharp\obj\Debug\netcoreapp3.1\rubiksCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Documents\rubiksCSharp\obj\Debug\netcoreapp3.1\rubiksCSharp.dll
+C:\Users\Owner\Documents\rubiksCSharp\obj\Debug\netcoreapp3.1\rubiksCSharp.pdb
+C:\Users\Owner\Documents\rubiksCSharp\obj\Debug\netcoreapp3.1\rubiksCSharp.genruntimeconfig.cache
